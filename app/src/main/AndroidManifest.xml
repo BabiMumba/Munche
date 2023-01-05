@@ -34,7 +34,7 @@
         <activity
             android:name="ui.location.ChangeLocationActivity"
             android:windowSoftInputMode="adjustPan" />
-        <activity android:name="ui.order.CurrentOrderActivity" />
+        <activity android:name="ui.order.babimumba" />
         <activity android:name="ui.order.OrdersActivity" />
         <activity android:name="ui.order.OrderSuccessfulActivity" />
         <activity android:name="ui.order.CheckoutActivity" />
